@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 erDiagram
     TRADE_ITEM {
-        int "Trade_Item_ID"
+        int Trade_Item_ID
         string "Trade Item Name"
         string "Trade Item Type"
         int "%Trade_Item_ID"  %% Adjusted Key Column
