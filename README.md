@@ -23,7 +23,7 @@ erDiagram
         int Trade_Item_ID
         string Trade Item Name
         string Trade Item Type
-        int Trade_Item_ID  %% Adjusted Key Column
+        int Trade_Item_ID
         int Trade Item Design Part ID
     }
 
